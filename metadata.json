@@ -1,0 +1,6 @@
+{
+  "name": "AutoGrievance AI",
+  "description": "Automated university grievance triage portal and algorithmic bias incident management system with live AI triage and model audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
